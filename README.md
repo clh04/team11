@@ -21,7 +21,12 @@
      pip install dlib
   ```
 * 下載好想要p圖的兩張照片
-* 在project1裡，創建picture資料夾
+* 在project1裡，創建5個新資料夾：
+  * picture
+  * blink1
+  * blink2
+  * no_blink1
+  * no_blink2
 * run gui.py
 
 # 需要更改的程式
