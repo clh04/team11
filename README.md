@@ -43,17 +43,7 @@
     shape_predictor_68_face_landmarks = "C:\\Users\\hp\\Desktop\\project1\\shape_predictor_68_face_landmarks.dat"
   ```
      >> filepath須改為正確路徑
-* compare_face.py
-  * line 39
-  ```
-    a = cv2.imread("C:/Users/hp/Desktop/project1/spongebob.jpg")
-  ```
-  >> project1的路徑需修改
-  * line 40
-  ```
-    cv2.imwrite("C:/Users/hp/Desktop/project1/picture/face_swap.jpg", a)  
-  ```
-  >> project1的路徑需修改
+
 * gui.py
   * line 14
   ```
