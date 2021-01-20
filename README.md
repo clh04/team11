@@ -22,7 +22,7 @@
   ```
 * 下載好想要p圖的兩張照片
    (預設照片存於Downloads資料夾)
-* 在project1裡，創建5個新資料夾：
+* 在project裡，創建5個新資料夾：
   * picture
   * blink1
   * blink2
@@ -43,7 +43,7 @@
   ```
     shape_predictor_68_face_landmarks = "shape_predictor_68_face_landmarks.dat"
   ```
-     >> 須確認shape_predictor_68_face_landmarks.dat和blink_detection1.py同層
+     >> 須確認shape_predictor_68_face_landmarks.dat和blink_detection2.py同層
 
 * gui.py
   * line 14
