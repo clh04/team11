@@ -34,15 +34,15 @@
 * blink_detection1.py
   * line 10
   ```
-    shape_predictor_68_face_landmarks = "C:\\Users\\hp\\Desktop\\project1\\shape_predictor_68_face_landmarks.dat"
+    shape_predictor_68_face_landmarks = "shape_predictor_68_face_landmarks.dat"
   ```
-     >> filepath須改為正確路徑
+     >> 須將dlib裡的shape_predictor_68_face_landmarks.dat移動到和blink_detection1.py同層
 * blink_detection2.py
   * line 10
   ```
-    shape_predictor_68_face_landmarks = "C:\\Users\\hp\\Desktop\\project1\\shape_predictor_68_face_landmarks.dat"
+    shape_predictor_68_face_landmarks = "shape_predictor_68_face_landmarks.dat"
   ```
-     >> filepath須改為正確路徑
+     >> 須將dlib裡的shape_predictor_68_face_landmarks.dat移動到和blink_detection2.py同層
 
 * gui.py
   * line 14
