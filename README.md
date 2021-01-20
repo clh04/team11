@@ -52,7 +52,9 @@
   ```
   >> 存取"想要p圖的照片"的資料夾
 
-
+# 備註
+若dlib內找不到shape_predictor_68_face_landmarks.dat
+可從：https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2 下載
 
 
 
