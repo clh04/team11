@@ -21,9 +21,11 @@
      pip install dlib
   ```
 * 下載好想要p圖的兩張照片
+* 在project1裡，創建picture資料夾
 * run gui.py
 
 # 需要更改的程式
+## 提醒：所有的路徑只能用英文命名，且不能包含空格
 * blink_detection1.py
   * line 10
   ```
