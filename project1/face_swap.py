@@ -32,6 +32,6 @@ mask = 255 * np.ones(f2.shape, f2.dtype)
 width, height, channels = f1.shape
 center = (int(x+w/2),int(y+h/2))
 # Seamlessly clone
-mixed_clone = cv2.seamlessClone(f2, f1, mask, center, cv2.NORMAL_CLONE)
+normal_clone = cv2.seamlessClone(f2, f1, mask, center, cv2.NORMAL_CLONE)
 
-cv2.imwrite("picture/face_swap.jpg", mixed_clone )
+cv2.imwrite("picture/face_swap.jpg", normal_clone )
