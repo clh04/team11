@@ -53,8 +53,8 @@
   >> 路徑："想要p圖的照片"所在資料夾
 
 # 備註
-若dlib內找不到shape_predictor_68_face_landmarks.dat
+>若dlib內找不到shape_predictor_68_face_landmarks.dat
 可從：https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2 下載
-
+>安裝dlib、face recognition 之前要先安裝Visual Studio (因為這些是c++的套件所以要有c++的環境)
 
 
