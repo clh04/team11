@@ -1,5 +1,4 @@
-# team11
-109-1 programming final project
+# 109-1 programming final project / team11
 project video https://www.youtube.com/watch?v=cUxxNwhWvkg
 
 # reproduce
